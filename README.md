@@ -1,0 +1,2 @@
+# pRIMAimg
+aqui guardo imagenews
